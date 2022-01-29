@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![flix2](https://user-images.githubusercontent.com/29388263/151676927-2d440dc8-e114-4fc4-8e4c-c1abfea3ee3e.gif)
+![flix2](https://user-images.githubusercontent.com/29388263/151677051-747fb35c-a68c-4581-8b87-eefc3a41c0f5.gif)
 
 ### Notes
 Getting the sizes of the poster in the CollectionView to be normal.
